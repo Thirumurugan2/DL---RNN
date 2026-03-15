@@ -90,7 +90,7 @@ def train_model(model, train_loader, criterion, optimizer, epochs=20):
 
 ## True Stock Price, Predicted Stock Price vs time
 
-<img width="1129" height="717" alt="image" src="https://github.com/user-attachments/assets/d4abaaa1-5d14-443d-a60f-7a977ad0f54e" />
+![image alt](https://github.com/Thirumurugan2/DL---RNN/blob/93998a8fa091eb541919073c1273e918618d3fee/Screenshot%202026-03-15%20212046.png)
 
 
 ### Predictions
