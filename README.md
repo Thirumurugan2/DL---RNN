@@ -85,8 +85,7 @@ def train_model(model, train_loader, criterion, optimizer, epochs=20):
 ### OUTPUT
 
 ## Training Loss Over Epochs Plot
-
-["C:\Users\rthir\OneDrive\Pictures\Screenshots\Screenshot 2026-03-15 204650.png"](https://github.com/Thirumurugan2/DL---RNN/blob/2985aafbdafef3c3db551fd6cd579d9142f897fe/Screenshot%202026-03-15%20204650.png)
+![image alt](https://github.com/Thirumurugan2/DL---RNN/blob/5101e20f9aff24fcda85596d9d5fde4e17e1223d/Screenshot%202026-03-15%20204650.png)
 <img width="1183" height="681" alt="image" src="https://github.com/user-attachments/assets/991daae0-c7e8-4a35-b30d-4e4bb3b11f66" />
 
 
