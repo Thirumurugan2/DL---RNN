@@ -34,9 +34,9 @@ Finally, test the model on the unseen test data, compare the predicted stock pri
 
 ## PROGRAM
 
-### Name:FRANKLIN F
+### Name:THIRUMURUGAN R
 
-### Register Number:212224240041
+### Register Number:212223220118
 
 ```python
  Define RNN Model
